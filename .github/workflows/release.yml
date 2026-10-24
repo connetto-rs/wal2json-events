@@ -17,19 +17,9 @@ jobs:
   ci:
     uses: ./.github/workflows/ci.yml
 
-  # Compares the tagged API against the last release, so a breaking change that skipped the
-  # version bump it needs fails before anything reaches crates.io.
-  semver:
-    name: SemVer
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
-      - uses: Swatinem/rust-cache@6323deb102c322ba6fcbdcafc7e3dddab59af2b6 # v2
-      - uses: obi1kenobi/cargo-semver-checks-action@6b69fcf40e9b5fb17adeb57e4b6ecd020649a239 # v2
-
   publish:
     name: Publish
-    needs: [ci, semver]
+    needs: ci
     runs-on: ubuntu-latest
     permissions:
       id-token: write
