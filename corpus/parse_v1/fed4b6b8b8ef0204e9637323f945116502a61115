@@ -1,0 +1,1 @@
+{"xid":7347,"nextmsn":"0/1956870","irign":0,"change":[{"kind":"insert","chema":"public","table":"aows","columnnames":["id","l","amount","nxt"],"colus":[25,25,100,25],"columnpomnnames":["id","label","amount","t"],"columcolumntypeoids":[24,25,1700,25],"columnpositions":[1,4003,0,27777],"cnvmno-":[null],"columnvalues":[0,"unset",null,null],"pont":"trans"}]}

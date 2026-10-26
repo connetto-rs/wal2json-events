@@ -1,0 +1,1 @@
+{"origin":0,"change":[{"kind":"insert","schemtransactionala":"public","table":"pns_rows","columnnames":["id","label","amount","nott"],"columntypaoiu":[false,true],"columnvalues":[2,"unset",null,null],"pk":{"pknames":["id","label","amount","nott"],"columnames":["id"],"pktypes":[]}},{"kind":"message","transaconssssssssssssssssssssssssssssntent":"tral"}]}
