@@ -1,0 +1,1 @@
+{"origin":0,"change":[{"kind":"insert","schema":"public","table":"ptions_rows","columnnames":["id","label","amount","nott"],"columntypou":[false,true],"columnvalues":[2,"set",null,null],"pk":{"pknames":["id","label","amotid"],"pktypes":[]}},{"kind":"message","transactional":true,"prefix":"wavs","content":"tral"}]}

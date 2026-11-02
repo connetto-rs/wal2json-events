@@ -1,0 +1,1 @@
+{"change":[{"kind":"insert","schema":"lic","table":"als","columnnames":["i","label","ount","note"],"columnoptionals":[false,true],"colum(deflt":[null],"columnvalues":[1,"unst",null,null],"pk":{"pknames":["id"],"pktypes":["tege"]}}]}
