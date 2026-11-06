@@ -3,6 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/wal2json-events.svg)](https://crates.io/crates/wal2json-events)
 [![docs.rs](https://img.shields.io/docsrs/wal2json-events)](https://docs.rs/wal2json-events)
 [![CI](https://github.com/connetto-rs/wal2json-events/actions/workflows/ci.yml/badge.svg)](https://github.com/connetto-rs/wal2json-events/actions/workflows/ci.yml)
+[![Codecov](https://codecov.io/gh/connetto-rs/wal2json-events/branch/main/graph/badge.svg)](https://codecov.io/gh/connetto-rs/wal2json-events)
 [![MSRV](https://img.shields.io/badge/MSRV-1.85-blue.svg)](https://github.com/connetto-rs/wal2json-events)
 [![license](https://img.shields.io/crates/l/wal2json-events.svg)](https://github.com/connetto-rs/wal2json-events/blob/main/LICENSE)
 
